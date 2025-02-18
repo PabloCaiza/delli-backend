@@ -1,0 +1,10 @@
+version: '3'
+services:
+  derma:
+    expose:
+      - 8000
+    image: us-central1-docker.pkg.dev/delli-recetas/delli-recetas-docker-repo/derma:2.0
+    ports:
+      - "9000:9000"
+    environment:
+      - PORT=9000
