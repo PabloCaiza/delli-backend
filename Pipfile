@@ -16,6 +16,9 @@ pycryptodome = "*"
 pymongo = "==3.12.3"
 django = "*"
 djongo = "*"
+joblib = "*"
+pandas = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
