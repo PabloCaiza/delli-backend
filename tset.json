@@ -1,0 +1,136 @@
+[
+  {
+    '_id': '67ae6f6c07c4c6430cbce64c',
+    'category': 'reposteria',
+    'duration': '30 minutos',
+    'steps': [
+      'En un tazón, se coloca el pan junto con la leche, remojando un rato para luego desmenuzar el pan hasta que quede totalmente deshecho.',
+      'Se agrega el azúcar y se deja reposar hasta que se disuelva por completo.',
+      'Luego, se incorporan los huevos, la vainilla, el licor y las pasas, batiendo la mezcla con una cuchara de madera hasta que todos los ingredientes estén bien integrados.',
+      'Seguidamente, se añade la mantequilla derretida y se bate con fuerza nuevamente.',
+      'La mezcla resultante se vierte en un molde previamente engrasado con mantequilla, procurando que no rebase más de la mitad del molde.',
+      'Posteriormente, se hornea el budín en un horno precalentado a 180 ºC durante aproximadamente una hora, o hasta que adquiera un dorado atractivo.',
+      'Una vez listo, se deja enfriar antes de servir.',
+      'Para preparar este delicioso budín de pan, primero se debe remojar el pan en leche caliente con canela y cáscara de limón.',
+      'Mientras el pan se empapa, se baten los huevos con azúcar y esencia de vainilla en un recipiente aparte.',
+      'Luego, se incorpora la mezcla de pan a los huevos batidos, asegurándose de que esté bien integrada.',
+      'Después, se procede a preparar el caramelo y verterlo en el molde seleccionado.',
+      'Cuando el caramelo esté listo, se vierte la mezcla de budín en el molde previamente caramelizado.',
+      'Es importante distribuir la mezcla de manera uniforme para obtener un resultado homogéneo.',
+      'Una vez que el budín esté listo para ser horneado, se coloca en el horno precalentado a 180°C y se deja cocinar por aproximadamente 1.5 horas, o hasta que esté dorado en la parte superior.',
+      'Es fundamental vigilar el tiempo de cocción para garantizar un budín perfectamente cocido.',
+      'Una vez que el budín esté listo, se recomienda dejarlo enfriar a temperatura ambiente y luego refrigerarlo durante un tiempo antes de servirlo.',
+      'Esto permitirá que los sabores se asienten y la textura se compacte adecuadamente.'
+    ],
+    'ingredients': [
+      'sal',
+      'azúcar',
+      'leche',
+      'huevo',
+      'agua',
+      'vainilla',
+      'mantequilla',
+      'pasa',
+      'pan',
+      'canela',
+      'limón'
+    ],
+    'matchingIngredients': 1
+  },
+  {
+    '_id': '67ae6f6c07c4c6430cbce665',
+    'category': 'reposteria',
+    'duration': '30 minutos',
+    'steps': [
+      'Las claras de huevo se baten a punto de nieve y luego se mezclan con la mermelada.',
+      'Esta mezcla se vierte en un molde savarín acaramelado, asegurándose de eliminar cualquier hueco de aire, y se coloca en un baño María en el horno durante aproximadamente 15 minutos, o hasta que esté firme al tacto.',
+      'Por otro lado, se prepara una crema con las yemas de huevo, la leche, la maicena previamente disuelta en agua fría, la vainilla y el azúcar.',
+      'Esta crema se deja enfriar.',
+      'Se unta una fuente con parte de la crema, se desmolda el flan sobre esta fuente y se baña con el resto de la crema.',
+      'Finalmente, el flan está listo para ser servido.'
+    ],
+    'ingredients': [
+      'huevo',
+      'mermelada',
+      'leche',
+      'maicena',
+      'vainilla',
+      'azúcar'
+    ],
+    'matchingIngredients': 1
+  },
+  {
+    '_id': '67ae6f6c07c4c6430cbce661',
+    'category': 'reposteria',
+    'duration': '2 horas',
+    'steps': [
+      'En un recipiente, la levadura se diluye en leche tibia, se mezcla con un poco de harina, se bate con un batidor manual y se deja reposar durante 1 hora para leudar.',
+      'En una batidora, se combinan la harina, el azúcar, una cucharadita de canela y la sal.',
+      'Se mezcla bien y se agrega la mantequilla, se bate y luego se incorporan los huevos.',
+      'Se añade a la batidora la mezcla de levadura y vainilla, y se bate hasta obtener una masa suave.',
+      'La masa se forma en una bola y se coloca en un recipiente, se cubre y se deja leudar durante 2 horas.',
+      'Una vez lista, se aplasta o rompe la masa, se amasa bien y se trabaja.',
+      'Luego, se extiende con un rodillo y se cortan formas con la ayuda de un molde de cartulina y un cortador.',
+      'Si se desea rellenar, se estira la masa, se coloca el relleno en un extremo y se enrolla.',
+      'Se da forma a los enrollados y se pintan con yema de huevo.',
+      'Se hornean a 175 grados hasta que estén dorados.',
+      'Después de hornear, se envuelven y se dejan reposar para evitar que se endurezcan.',
+      'Finalmente, se decoran con glaseado.'
+    ],
+    'ingredients': [
+      'leche',
+      'azúcar',
+      'sal',
+      'harina',
+      'mantequilla',
+      'huevo',
+      'vainilla',
+      'naranja',
+      'res',
+      'pasa'
+    ],
+    'matchingIngredients': 1
+  },
+  {
+    '_id': '67ae6f6c07c4c6430cbce64b',
+    'category': 'reposteria',
+    'duration': '1 hora',
+    'steps': [
+      'Para comenzar la preparación, coloque sobre la mesada los ingredientes ya pesados.',
+      'Ralle el queso que haya escogido.',
+      'En la mesada, mezcle todos los ingredientes secos para formar una corona.',
+      'Agregue el huevo y el agua de manera gradual, amasando bien la masa hasta lograr una preparación suave.',
+      'Forme bollitos de aproximadamente 60 gramos y colóquelos en una placa para horno previamente enmantecada.',
+      'Hornee a 200 grados hasta que note que se abre la corteza.',
+      'Retire del horno y sirva los bollitos tibios.'
+    ],
+    'ingredients': [
+      'harina',
+      'huevo',
+      'queso',
+      'agua',
+      'sal'
+    ],
+    'matchingIngredients': 1
+  },
+  {
+    '_id': '67ae6f6c07c4c6430cbce640',
+    'category': 'reposteria',
+    'duration': '1 hora',
+    'steps': [
+      'Las guayabas se pelan, se retira la parte del centro con las semillas y se colocan los pedazos de pulpa en un tazón grande.',
+      'Luego se agrega el azúcar, se mezcla y se tritura hasta hacer un puré.',
+      'Seguidamente, se añaden las claras de huevo al puré de guayaba y azúcar.',
+      'Se usa la batidora eléctrica para batir la mezcla hasta obtener una textura cremosa y firme.',
+      'Finalmente, la espumilla se sirve inmediatamente en copas o conos de helado, acompañada con la salsa de mora, grajeas y coco rallado.'
+    ],
+    'ingredients': [
+      'guayaba',
+      'azúcar',
+      'huevo',
+      'sal',
+      'coco'
+    ],
+    'matchingIngredients': 1
+  }
+]
